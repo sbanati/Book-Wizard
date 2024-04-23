@@ -70,7 +70,7 @@ This app was built using the MERN stack, with a React front end, MongoDB databas
 
 
 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,React,Vite,ReactRouter,Bootstrap,MongoDB,Express,Graphql) <br>
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,React,Vite,ReactRouter,Bootstrap,MongoDB,Express,Graphql,ApolloServer) <br>
 
 
 
