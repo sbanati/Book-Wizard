@@ -22,7 +22,7 @@ const resolvers = {
           },
     },
     
-    Mutations: {
+    Mutation: {
          // Resolver for login mutation
         login: async (parent, { email, password }) => {
         console.log(email, password);

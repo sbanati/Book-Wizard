@@ -1,5 +1,7 @@
 // Define the `Query` and `Mutation` types
-const typeDefs = gql`
+
+
+const typeDefs = `
   type User {
     _id: ID
     username: String
@@ -35,6 +37,6 @@ const typeDefs = gql`
     saveBook(authors: [String]!, description: String!, bookId: String!, image: String!, link: String!, title: String!): User
     removeBook(bookId: String!): User
   }
-`;
+`
 
 module.exports = typeDefs;
