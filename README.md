@@ -70,7 +70,7 @@ This is a single-page react portfolio application. Additionally, this applicatio
 
 
 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,React,Vite,ReactRouter,Tailwindcss) <br>
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,React,Vite,ReactRouter,Bootstrap,MongoDB,Express,Graphql) <br>
 
 This applications contact form was built using<a href="https://www.npmjs.com/package/formik"><strong> Formik</strong></a>
 
