@@ -12,10 +12,10 @@
     <img src="client/src/assets/searchbooks.png" alt="booksearch" width="600" height="400">
   </a>
 
-<h1 align="center">Sahil.dev</h1>
+<h1 align="center">Book|Wizard</h1>
 
   <p align="center">
-    My Portfolio 
+    Book Search 
     <br />
     <a href="https://potfiolio.netlify.app/"><strong>View Demo</strong></a>
     <br />
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a single-page react portfolio application. Additionally, this application was built with a mobile first approach and hosted on Netlify.    
+This app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. This application was a fully functioning Google Books API search engine built with a RESTful API and was refactored to be a GraphQL API built with Apollo Server 
 <br><br>
  
 
@@ -149,7 +149,7 @@ Clone the repo below and open the project in your source code editor. Open the t
 * light/dark mode
 * advanced search filters
 * PWA
-* 
+  
   
  
 
