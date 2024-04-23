@@ -91,22 +91,22 @@ This applications contact form was built using<a href="https://www.npmjs.com/pac
 
 
 ### Installation
-Clone the repo below and open the project in your source code editor. Open the terminal, execute "npm install" to ensure all required packages are installed. Once this is done, navigate to the root directory and initiate the application by running "npm start" in the terminal. <br>
+Clone the repo below and open the project in your source code editor. Open the terminal, navigate to the root directory and execute "npm install" to ensure all required packages are installed. Once this is done, stay in the root directory and run npm run install. This will install the dependencies in both the client and server folders. Lastly initiate the application by running "npm run develop" in the terminal. <br>
 
 1. Clone the repo
    ```sh
-   https://github.com/sbanati/Sahil.Dev.git
+   https://github.com/sbanati/Book-Wizard.git
    ```
 
 2. Install npm packages in terminal 
    ```sh
-   npm install
+   npm install in root directory
+   npm run install (script to install dependencies in client & server
    ```
 
 3. Start Server from the root directory.   
    ```sh
-   npm run dev or
-   npm run start
+   npm run develop
    ```   
 
 4. Open application on browser
