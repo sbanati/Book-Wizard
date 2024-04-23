@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sbanati/Sahil.Dev">  
+  <a href="https://github.com/sbanati/Book-Wizard">  
     <img src="client/src/assets/searchbooks.png" alt="booksearch" width="600" height="400">
   </a>
 
@@ -72,7 +72,7 @@ This is a single-page react portfolio application. Additionally, this applicatio
 
 ![My Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,React,Vite,ReactRouter,Bootstrap,MongoDB,Express,Graphql) <br>
 
-This applications contact form was built using<a href="https://www.npmjs.com/package/formik"><strong> Formik</strong></a>
+
 
   
 
@@ -127,13 +127,10 @@ Clone the repo below and open the project in your source code editor. Open the t
 
 
 
-<img src="src/assets/screenshot3.png" alt="home page">
-<img src="src/assets/screenshot4.png" alt="home page on mobile">
-<img src="src/assets/screenshot5.png" alt="mobile nav"> <br>
+<img src="client/src/assets/savedbooks.png" alt="home page">
 
-###This application was also run with wave and lighthouse extensions 
-<img src="src/assets/wave.png" alt="wave extension">
-<img src="src/assets/lighthouse.png" alt="lighthouse extension">
+
+
 
 
 
@@ -150,8 +147,10 @@ Clone the repo below and open the project in your source code editor. Open the t
 <h3>Possible features</h3>
 
 * light/dark mode
-* testimonials
-* animations and transitions
+* advanced search filters
+* PWA
+* 
+  
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -180,7 +179,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- ACKNOWLEDGEMENT -->
 ## Acknowledgement
 * Sachin
-* Pair programmed with Salvatore 
+* Pair programmed with Salvatore
+* Pair programmed with Jason 
   
 
 
