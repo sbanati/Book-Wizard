@@ -85,7 +85,7 @@ This app was built using the MERN stack, with a React front end, MongoDB databas
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### For end user: <a href="https://potfiolio.netlify.app/"><strong>Application live link</strong></a>
+### For end user: <a href="https://book-wizard.onrender.com"><strong>Application live link</strong></a>
 
 
 
