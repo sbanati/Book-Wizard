@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sbanati/Sahil.Dev">  
-    <img src="client/src/assets/searchbooks.png" alt="booksearch" width="400" height="400">
+    <img src="client/src/assets/searchbooks.png" alt="booksearch" width="600" height="400">
   </a>
 
 <h1 align="center">Sahil.dev</h1>
